@@ -1,0 +1,38 @@
+.tab-content {
+    display: block;
+    padding: 20px 0;
+	background-color:red;
+}
+
+.tab-content.active {
+    display: block;
+}
+
+.form-table th {
+    width: 200px;
+}
+
+.form-table input[type="text"] {
+    width: 100%;
+}
+
+.remove-row {
+    color: #dc3232;
+}
+
+.nav-tab-wrapper {
+    margin-bottom: 20px;
+}
+
+.translation-row {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.translation-row input {
+    margin-right: 10px;
+}
+
+.settings-error {
+    margin-top: 20px;
+}
